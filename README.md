@@ -1,5 +1,5 @@
 This application is meant to allow a developer participate in the development of an open source project that 
-  aims to allow anyuone on earth with an old android phone to run locally any miniature LLM locally, and give the application relevant permissions so
+  aims to allow anyone on earth with an old android phone to run locally any miniature LLM, and give the application relevant permissions so
   the user maintains control over their privacy, at all times.
 
 The interface should be simple, and allow the user to show a selection of LLMs available to download, select which one he wants to run,
